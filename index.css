@@ -116,7 +116,7 @@ ul li a:hover{
   left: calc(100% - 70px);
   width: 100px;
   height: 100px;
-  background: #1687f0;
+  background: #4263EB;
   border-radius: 50%;
   animation: ball-move 3s ease-in-out 1s infinite alternate;
 }
